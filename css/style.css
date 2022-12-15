@@ -1,0 +1,56 @@
+body
+{
+    font-family: "Oswald";
+}
+
+li
+{
+    list-style-type: none;
+}
+a
+{
+    text-decoration: none;
+    color: white;
+}
+
+.Shadow {
+    box-shadow:  0px 0px 10px whitesmoke;
+ }
+
+.color-item
+{
+    width: 30px;
+    height: 30px;
+
+    background-color: red;
+    display: inline-block;
+}
+
+#options
+{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    z-index: 55555555555;
+    width: 10%;
+}
+
+
+.image
+{
+    align-self: flex-start;
+}
+.icon
+{
+    align-self: flex-end;
+}
+.Links
+{
+    align-self: flex-start;
+}
+
+
+
+
+
+
